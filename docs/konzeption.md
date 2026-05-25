@@ -1,4 +1,4 @@
-Hier finden Sie eine umfassende, strukturierte Aufbereitung aller historischen, ökologischen und konzeptionellen Daten rund um das **Stadtgärtle Rheinfelden in der Karl-Metzger-Grube**. Diese Übersicht wurde speziell für Ihr Website-Projekt zusammengestellt und verzichtet vereinbarungsgemäß vollständig auf Tabellenstrukturen.
+Hier finden Sie eine umfassende, strukturierte Aufbereitung aller historischen, ökologischen und konzeptionellen Daten rund um das **Stadtgärtle Rheinfelden in der Karl-Metzger-Grube**. Diese Übersicht wurde speziell für das Website-Projekt zusammengestellt.
 
 ---
 
@@ -44,7 +44,7 @@ Die Karl-Metzger-Grube bringt eine komplexe ökologische und industrielle Altlas
 
 ### 4. Philosophisch-analytische Betrachtung: Welche Informationen fehlen noch für das Website-Projekt?
 
-Wenn Sie für den Mitmachgarten und seinen Förderverein eine Website aufbauen, greifen rein deskriptive Daten zu kurz. Ein solches Digitalprojekt muss Vertrauen aufbauen, Aktivierung erzeugen und rechtliche Sicherheit vermitteln. Aus kommunikationsphilosophischer und strategischer Sicht sollten Sie prüfen, ob Sie noch folgende Informationsbausteine beschaffen müssen:
+Wenn wir für den Mitmachgarten und seinen Förderverein eine Website aufbauen, greifen rein deskriptive Daten zu kurz. Ein solches Digitalprojekt muss Vertrauen aufbauen, Aktivierung erzeugen und rechtliche Sicherheit vermitteln. Aus kommunikationsphilosophischer und strategischer Sicht sollten wir prüfen, ob wir noch folgende Informationsbausteine beschaffen müssen:
 
 * **Das „Transparenz- und Sicherheits-Zertifikat“ (Angst nehmen):** Das Wort „Dioxin“ löst bei Website-Besuchern instinktiv Alarmbereitschaft aus, besonders wenn es um Nahrungsmittel und spielende Kinder geht. Die Website benötigt eine wissenschaftlich fundierte, aber leicht verständliche FAQ-Sektion: Gibt es regelmäßige Laboranalysen des im Stadtgärtle geernteten Gemüses? Wurde amtlich nachgewiesen, dass die Hochbeete schadstofffrei sind? Solche handfesten Prüfberichte oder offizielle Freigaben des Umweltamtes schaffen das notwendige Vertrauen.
 * **Die rechtliche und organisatorische Architektur (Gartenordnung):** Da es sich um einen „Mitmachgarten“ handelt, der öffentlich zugänglich ist, stellen sich Haftungsfragen. Wer haftet, wenn ein Kind am Lehmofen verunglückt? Gibt es eine offizielle Satzung von „Rheinfelden im Wandel e.V.“, die man einsehen kann? Für die Website fehlen vermutlich die konkrete Gartenordnung (z. B. Ruhezeiten, Müllentsorgung, Rauchverbote) und die Nutzungsbedingungen für die Hochbeete.
