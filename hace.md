@@ -1,4 +1,4 @@
-# HACE — The Human–AI Constraint Engine
+# HACE — The Human — AI Constraint Engine
 
 > Document type: **Structural Law** (read first, before any code is generated).
 > Status: **Authoritative.** Overrides any conflicting Aimergent ('ai') suggestion or Archon ('user') request.

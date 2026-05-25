@@ -67,7 +67,7 @@ infrastructure, readable by anyone with a browser.
 > patterns. You observe first. You design before you act. You work in small, contained
 > plots."*
 
-This codebase was built using **HACE** — the Human–AI Constraint Engine — a
+This codebase was built using **HACE** — the Human — AI Constraint Engine — a
 structured AI-human pair-programming methodology that applies the same philosophy to
 software.
 
@@ -79,13 +79,30 @@ software.
 | Design self-sustaining systems | SOA decoupling: zero backend coupling, portable to any host |
 | The gardener tends; nature grows | Manual Gating: Archon reviews every line; Aimergent generates |
 
-The human (the **Archon**) designs the blueprint and holds the commit gate.
-The AI (the **Aimergent**) fills in the structure, one file at a time, within strict
+The human (the **Archon**[^1]) designs the blueprint and holds the commit gate.
+The AI (the **Aimergent**[^2]) fills in the structure, one file at a time, within strict
 constraints the Archon defines in advance.
 
 The result: a beginner who understands every line of code they ship.
 
 Full methodology: [`HACE.md`](HACE.md)
+
+### Terminology Notes
+
+To ensure structural integrity and prevent context-window contamination, we use specific role-based designators throughout this documentation and codebase. 
+
+These terms are chosen as unambiguous namespaces. By avoiding standard industry terms (like "user" or "agent"), we eliminate collision with reserved language keywords, variable names, or common function identifiers, providing clear syntactic anchors that keep design directives distinct from technical implementation.
+
+
+[^1]: **Archon**: The human architect. An **unambiguous namespace** designator used to prevent collision with reserved keywords and to signify sole structural authority.
+
+Etymology: Derived from the Greek arkhōn, meaning "ruler" or "chief magistrate."
+
+[^2]: **Aimergent**: The AI execution engine. An **unambiguous namespace** designator used to ensure semantic separation between design intent and implementation logic.
+
+Etymology: A portmanteau of "AI" and "Emergent" (with a nod to "Agent").
+
+*Summary:* We use these terms to establish a Master-Tool hierarchy. The Archon provides the vision, and the Aimergent provides the execution, ensuring that the human remains in control and fully understands every line of code.
 
 ---
 

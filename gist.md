@@ -12,7 +12,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║        H  A  C  E                                        ║
-║        Human–AI Constraint Engine                        ║
+║        Human — AI Constraint Engine                        ║
 ║                                                          ║
 ║        Observe first.                                    ║
 ║        Design before you act.                            ║
@@ -38,7 +38,7 @@
 
 HACE is not a library. It is not a boilerplate. It is not a prompt template.
 
-HACE is a **discipline** — a pair-programming contract between a human architect (the *Archon*) and an AI execution engine (the *Aimergent*). The Archon designs blueprints, boundaries, and constraints **before a single line of code is written**. The Aimergent fills them in, one atomic file at a time, and may not exceed those boundaries.
+HACE is a **discipline** — a pair-programming contract between a human architect (the *Archon*[^1]) and an AI execution engine (the *Aimergent*[^2]). The Archon designs blueprints, boundaries, and constraints **before a single line of code is written**. The Aimergent fills them in, one atomic file at a time, and may not exceed those boundaries.
 
 > **This is the opposite of Vibe Coding** — guessing, typing, patching, hoping.  
 > HACE is professional, token-efficient, and the single best workflow for a beginner  
@@ -71,6 +71,23 @@ If you want to explore the corresponding repository, study the architecture, or 
          First to convene.                    First to be bounded.
          Last gate before merge.              Last to write autonomously.
 ```
+
+### Terminology Notes
+
+To ensure structural integrity and prevent context-window contamination, we use specific role-based designators throughout this documentation and codebase. 
+
+These terms are chosen as unambiguous namespaces. By avoiding standard industry terms (like "user" or "agent"), we eliminate collision with reserved language keywords, variable names, or common function identifiers, providing clear syntactic anchors that keep design directives distinct from technical implementation.
+
+
+[^1]: **Archon**: The human architect. An **unambiguous namespace** designator used to prevent collision with reserved keywords and to signify sole structural authority.
+
+Etymology: Derived from the Greek arkhōn, meaning "ruler" or "chief magistrate."
+
+[^2]: **Aimergent**: The AI execution engine. An **unambiguous namespace** designator used to ensure semantic separation between design intent and implementation logic.
+
+Etymology: A portmanteau of "AI" and "Emergent" (with a nod to "Agent").
+
+*Summary:* We use these terms to establish a Master-Tool hierarchy. The Archon provides the vision, and the Aimergent provides the execution, ensuring that the human remains in control and fully understands every line of code.
 
 ---
 
