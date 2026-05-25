@@ -3,10 +3,10 @@
 <br>
 
 ```
-  ┌─────────────────────────────────────────┐
-  │  🌱  S T A D T G Ä R T L E             │
-  │      R H E I N F E L D E N             │
-  └─────────────────────────────────────────┘
+    ┌─────────────────────────────────────────┐
+    │   🌱  S T A D T G Ä R T L E             │
+    │       R H E I N F E L D E N             │
+    └─────────────────────────────────────────┘
 ```
 
 **Urban community gardening — rooted in Rheinfelden, grown online.**
