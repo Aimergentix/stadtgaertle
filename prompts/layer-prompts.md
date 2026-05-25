@@ -79,7 +79,7 @@ Output only the file content. No commentary. No code fences around the whole res
 
 ## Layer 2 — Config and types (one Side-Chat per Small World)
 
-> Block: Small Worlds 4–5 (JSON files with German copy) require Joachim's data
+> Block: Small Worlds 4–5 (JSON files with German copy) require the Gärtnermeister's data
 > (project-manifest §A.6). Types (Small Worlds 1–3) can proceed immediately.
 
 **Small World 1 — src/types/site-content.ts**
@@ -120,7 +120,7 @@ Do not add any URL not listed in §A.5. Under 20 lines.
 Output only the file content. No commentary.
 ```
 
-**Small Worlds 4–5 (JSON): blocked — wait for project-manifest §A.6 data from Joachim.**
+**Small Worlds 4–5 (JSON): blocked — wait for project-manifest §A.6 data from the Gärtnermeister.**
 
 **Gate:** `npm run build` zero errors after each. Commit each separately.
 

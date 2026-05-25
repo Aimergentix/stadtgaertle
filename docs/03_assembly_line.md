@@ -65,7 +65,7 @@ Commit: `chore: init shadcn-ui and apply design-system theme`
 All Small Worlds follow the order in `project-manifest.md §A.2`.
 One Side-Chat per Small World. One commit per Small World.
 
-> ⬜ Block on Small Worlds 4–5 until `project-manifest §A.6` data received from Joachim.
+> ⬜ Block on Small Worlds 4–5 until `project-manifest §A.6` data received from the Gärtnermeister.
 
 | Step | Small World            | File                                    |
 |------|------------------------|-----------------------------------------|

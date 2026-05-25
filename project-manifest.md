@@ -18,7 +18,7 @@ to justify scope expansion beyond what is defined here.
 ### A.1 Website Purpose (Settled)
 
 The website is a **Content Display Shell** (HACE §6). Its single function: reduce the
-recurring communication burden on Joachim Schlageter (garden master) by making rules,
+recurring communication burden on the Gärtnermeister  (garden master) by making rules,
 schedules, and contact information publicly accessible without his direct intervention.
 
 Non-goals (hard): authentication, member management, database, server-side logic, payment,
@@ -167,7 +167,7 @@ export type ServiceKey = keyof typeof services;
 
 ---
 
-### A.6 Information Still Required from Joachim Schlageter
+### A.6 Information Still Required from the Gärtnermeister 
 
 The following data is needed before the Aimergent can populate `site-content.json`.
 No component that reads this data may be generated until the Archon provides the values.
@@ -241,22 +241,22 @@ zwei Einzelpersonen gemeinsam bestellt.
 Anlässlich des zehnjährigen Bestehens veranstaltete das Stadtgärtle ein erweitertes
 Rahmenprogramm beim alljährlichen Kürbissuppenfest. Oberbürgermeister Klaus Eberhardt ließ
 die Erfolgsgeschichte des Projekts Revue passieren. Das Programm umfasste Führungen durch
-den Garten mit Gärtnermeister Joachim Schlageter, einen Spaziergang zum Thema Artenvielfalt
+den Garten mit Gärtnermeister the Gärtnermeister , einen Spaziergang zum Thema Artenvielfalt
 in der Metzgergrube sowie Auftritte des Improtheaters und Kinderschminken.
 
 ---
 
 ## 3. Die Menschen dahinter
 
-### Joachim Schlageter – das Herzstück
+### the Gärtnermeister  – das Herzstück
 
-Joachim Schlageter, Jahrgang 1964, ist das lebendige Zentrum des Stadtgärtles. Er ist
+the Gärtnermeister , Jahrgang 1964, ist das lebendige Zentrum des Stadtgärtles. Er ist
 Gärtnermeister und Dipl. Permakultur-Gestalter. Er arbeitet als selbstständiger
 Landschaftsgestalter, berät und begleitet Permakultur-Projekte, ist in der deutschsprachigen
 Permakultur-Ausbildung aktiv und betreibt Permakultur-Feldforschung. Er leitet das Stadtgärtle
 seit seiner Gründung.
 
-**Website purpose anchor:** Die Website soll Joachim entlasten. Er soll wichtige Hinweise
+**Website purpose anchor:** Die Website soll the Gärtnermeister entlasten. Er soll wichtige Hinweise
 kommunizieren können, ohne sie vor Ort und wiederholt erklären zu müssen.
 
 ### Die Mitmachgärtnerinnen und -gärtner
@@ -270,7 +270,7 @@ fast 50 Personen im Stadtgärtle.
 
 Die Planungshoheit für die Metzgergrube liegt beim Stadtbauamt. Die Stadt stellt die
 infrastrukturellen Voraussetzungen und unterstützt das Gemeinschaftsgärtnern durch die
-Finanzierung der qualifizierten Begleitung (Joachim Schlageter) sowie des gärtnerischen
+Finanzierung der qualifizierten Begleitung (the Gärtnermeister ) sowie des gärtnerischen
 Equipments.
 
 ---
@@ -288,7 +288,7 @@ ein Landartprojekt. Eine Boule-Gruppe trifft sich regelmäßig an der roten Frei
 ### Gärtnerischer Ansatz: Permakultur
 
 Das Stadtgärtle arbeitet konsequent nach Prinzipien der **Permakultur** – einem ganzheitlichen
-Gestaltungsansatz, der natürliche Ökosysteme nachahmt. Joachim Schlageter ist
+Gestaltungsansatz, der natürliche Ökosysteme nachahmt. the Gärtnermeister  ist
 Diplom-Permakultur-Designer.
 
 ### Jahreshöhepunkt: Das Kürbissuppenfest

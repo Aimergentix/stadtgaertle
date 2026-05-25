@@ -36,11 +36,11 @@ a former gravel pit, reclaimed, replanted, and handed to the community of Rheinf
 Baden. Almost 50 people, aged 3 to 83, tend raised beds built above contaminated soil,
 practice permaculture together, and gather every autumn for the *Kürbissuppenfest*.
 
-At the centre of it: **Joachim Schlageter** — Gärtnermeister, permaculture designer,
+At the centre of it: **The Gärtnermeister**, permaculture designer,
 and the living memory of everything the garden knows. Every question about rules,
 schedules, and plots lands with him. In person. Repeatedly.
 
-This website exists to change that. Not to replace Joachim — to free him.
+This website exists to change that. Not to replace the Gärtnermeister — to free him.
 
 ---
 
@@ -53,7 +53,7 @@ Stadtgärtle website
 ├── Publishes the seasonal calendar so nobody has to ask
 ├── Lists the rules (including why raised beds are mandatory — it is a good story)
 ├── Shows the plot map so members can find their bed
-└── Provides contact details without Joachim having to hand them out
+└── Provides contact details without the Gärtnermeister having to hand them out
 ```
 
 No database. No login. No server logic. A static shell, deployed to EU-sovereign
@@ -164,7 +164,7 @@ The raised beds filled with clean earth are not an aesthetic choice. They are a
 necessary protection measure — and one of the most quietly radical things about this
 garden.
 
-The website explains this. Joachim used to.
+The website explains this. the Gärtnermeister used to.
 
 ---
 
