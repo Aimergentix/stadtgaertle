@@ -1,4 +1,4 @@
-Hier finden Sie eine umfassende, strukturierte Aufbereitung aller historischen, ökologischen und konzeptionellen Daten rund um das **Stadtgärtle Rheinfelden in der Karl-Metzger-Grube**. Diese Übersicht wurde speziell für das Website-Projekt zusammengestellt.
+Hier finden wir eine umfassende, strukturierte Aufbereitung aller historischen, ökologischen und konzeptionellen Daten rund um das **Stadtgärtle Rheinfelden in der Karl-Metzger-Grube**. Diese Übersicht wurde speziell für das Website-Projekt zusammengestellt.
 
 ---
 
