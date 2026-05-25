@@ -67,9 +67,9 @@ infrastructure, readable by anyone with a browser.
 > patterns. You observe first. You design before you act. You work in small, contained
 > plots."*
 
-This codebase was built using **HACE** — the Human — AI Constraint Engine — a
-structured AI-human pair-programming methodology that applies the same philosophy to
-software.
+> **Methodology** > This codebase was built using **HACE** (the Human — AI Constraint Engine) — a structured AI-human pair-programming methodology that applies the same philosophy to software.
+> You can view the full structural law here: **[Human — AI Constraint Engine](https:/https://gist.github.com/Aimergentix/16eee019135759fb982893df1fbf21f1**)
+
 
 | Permaculture principle | HACE equivalent |
 |------------------------|-----------------|
