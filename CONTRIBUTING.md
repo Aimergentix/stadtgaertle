@@ -1,6 +1,6 @@
 # Contributing to Stadtgaertle Rheinfelden
 
-This project uses the **HACE** (Human-Architect Constraint Engine) methodology for AI-assisted development. Every contribution — whether from the primary Archon ('user', 'human pair programmer') or a future collaborator — follows the same structured workflow described below.
+This project uses the **HACE** (Human–AI Constraint Engine) methodology for AI-assisted development. Every contribution — whether from the primary Archon ('user', 'human pair programmer') or a future collaborator — follows the same structured workflow described below.
 
 ---
 

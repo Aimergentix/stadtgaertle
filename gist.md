@@ -5,14 +5,14 @@
 
 <!-- Banner: place a wide architectural/blueprint-style image here -->
 <!-- Suggested: dark background, grid lines, compass rose, architectural detail -->
-![HACE Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/docs/images/hace-banner.png)
+![HACE Banner](https://raw.githubusercontent.com/Aimergentix/stadtgaertle/main/docs/images/hace-banner.png)
 
 <br/>
 
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║        H  A  C  E                                        ║
-║        Human-Architect Constraint Engine                 ║
+║        Human–AI Constraint Engine                        ║
 ║                                                          ║
 ║        Observe first.                                    ║
 ║        Design before you act.                            ║
@@ -20,16 +20,15 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-**A structured AI-human pair-programming methodology**  
-*for builders who understand every line of code they ship.*
+**A structured AI-human pair-programming methodology**<br/> 
+*above and beyond the slop*<br/>
+*for builders who understand every line of code they ship.*<br/>
 
-<br/>
-
-![methodology](https://img.shields.io/badge/methodology-Architecture--Driven-1a1a2e?style=flat-square&labelColor=0f0f1a)
-![stack](https://img.shields.io/badge/stack-React%20%C2%B7%20TypeScript%20%C2%B7%20Vite-4a9eff?style=flat-square&labelColor=0f0f1a)
-![hosting](https://img.shields.io/badge/hosting-EU--sovereign-2ecc71?style=flat-square&labelColor=0f0f1a)
-![any](https://img.shields.io/badge/any%20type-%E2%9C%97%20banned-e74c3c?style=flat-square&labelColor=0f0f1a)
-![status](https://img.shields.io/badge/status-Structural%20Law-f39c12?style=flat-square&labelColor=0f0f1a)
+![methodology](https://img.shields.io/badge/methodology-Architecture--Driven-1a1a2e?style=flat-square&labelColor=#003B5C)
+![stack](https://img.shields.io/badge/stack-React%20%C2%B7%20TypeScript%20%C2%B7%20Vite-4a9eff?style=flat-square&labelColor=#003B5C)
+![hosting](https://img.shields.io/badge/hosting-EU--sovereign-2ecc71?style=flat-square&labelColor=#003B5C)
+![any](https://img.shields.io/badge/any%20type-%E2%9C%97%20banned-e74c3c?style=flat-square&labelColor=#003B5C)
+![status](https://img.shields.io/badge/status-Structural%20Law-f39c12?style=flat-square&labelColor=#003B5C)
 
 </div>
 
@@ -45,21 +44,29 @@ HACE is a **discipline** — a pair-programming contract between a human archite
 > HACE is professional, token-efficient, and the single best workflow for a beginner  
 > who needs to understand every line they ship.
 
+### The Implementation
+
+HACE is the methodology; **Stadtgaertle** ("little urban garden") is the living implementation.
+
+If you want to explore the corresponding repository, study the architecture, or view the current blueprints, **[click here to visit the repository](https://github.com/Aimergentix/stadtgaertle)**.
+
+*This project is licensed under the MIT License. See [the official MIT License text](https://opensource.org/licenses/MIT) for full details.*
+
 ---
 
 ## The Two Roles
 
 ```
 ┌─────────────────────────────────┐   ┌─────────────────────────────────┐
-│           ARCHON                │   │          AIMERGENT               │
-│         (the human)             │   │           (the AI)               │
+│           ARCHON                │   │          AIMERGENT              │
+│         (the human)             │   │           (the AI)              │
 ├─────────────────────────────────┤   ├─────────────────────────────────┤
-│  ✦ Owns intent & blueprint      │   │  ✦ Executes within bounds        │
-│  ✦ Designs schemas first        │   │  ✦ Generates one file/function   │
-│  ✦ Holds final commit gate      │   │  ✦ Never expands scope           │
-│  ✦ Reads every line before      │   │  ✦ Halts & asks when in doubt    │
-│    merging                      │   │  ✦ Model-agnostic: Claude, Grok, │
-│  ✦ EU infra · GDPR sovereign    │   │    Gemini, or any successor      │
+│  ✦ Owns intent & blueprint      │   │  ✦ Executes within bounds       │
+│  ✦ Designs schemas first        │   │  ✦ Generates one file/function  │
+│  ✦ Holds final commit gate      │   │  ✦ Never expands scope          │
+│  ✦ Reads every line before      │   │  ✦ Halts & asks when in doubt   │
+│    merging                      │   │  ✦ Model-agnostic: Claude, Grok,│
+│  ✦ EU infra · GDPR sovereign    │   │    Gemini, or any successor     │
 └─────────────────────────────────┘   └─────────────────────────────────┘
          First to convene.                    First to be bounded.
          Last gate before merge.              Last to write autonomously.
@@ -96,18 +103,18 @@ Clear the chat. Re-read the spec. Regenerate one file. No spiral. No waste.
 │           THE ARCHON'S INTENT-DRIVEN WORKFLOW            │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  ① DESIGN       Side-Chat + High-Reasoning Model         │
+│  (1) DESIGN       Side-Chat + High-Reasoning Model       │
 │                 Refine specifications in /docs/*.md      │
 │                                                          │
-│  ② ISOLATE      Context-Fasting                          │
+│  (2) ISOLATE      Context-Fasting                        │
 │                 Open a clean chat · @-mention 1 doc      │
 │                 + 1 target · nothing else                │
 │                                                          │
-│  ③ EXECUTE      Atomic Generation                        │
+│  (3) EXECUTE      Atomic Generation                      │
 │                 Aimergent writes exactly one file        │
 │                 or one function · nothing more           │
 │                                                          │
-│  ④ VERIFY       Line-by-Line Audit                       │
+│  (4) VERIFY       Line-by-Line Audit                     │
 │                 Archon reads · learns · asks · commits   │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
@@ -263,5 +270,5 @@ Neither digs outside the plot.
 <br/>
 
 ![made with HACE](https://img.shields.io/badge/made%20with-HACE-1a1a2e?style=for-the-badge&labelColor=0f0f1a)
-
+     
 </div>
