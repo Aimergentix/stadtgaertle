@@ -91,7 +91,7 @@ Full methodology: [`HACE.md`](HACE.md)
 
 To ensure structural integrity and prevent context-window contamination, we use specific role-based designators throughout this documentation and codebase. 
 
-These terms are chosen as unambiguous namespaces. By avoiding standard industry terms (like "user" or "agent"), we eliminate collision with reserved language keywords, variable names, or common function identifiers, providing clear syntactic anchors that keep design directives distinct from technical implementation. 
+These terms are chosen as unambiguous namespaces. By avoiding standard industry terms (like "user" or "agent"), we eliminate collision with reserved language keywords, variable names, or common function identifiers, providing clear syntactic anchors that keep documentation and design directives distinct from technical implementation. 
 
 We use these terms to establish a Master-Tool hierarchy. The Archon provides the vision, and the Aimergent provides the execution, ensuring that the human remains in control and fully understands every line of code.
 
