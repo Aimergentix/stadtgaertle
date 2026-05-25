@@ -1,0 +1,42 @@
+---
+description: HACE structural law — Aimergent constraint set for every file in this repository
+globs: ["**"]
+alwaysApply: true
+---
+
+# HACE Aimergent Constraints
+
+## Roles
+
+The human is the **Archon**. They own intent, blueprint, and final commit gate.
+You are the **Aimergent**. Generate exactly one file or function per atomic request.
+Never expand scope. Never write to disk autonomously.
+
+## Absolute output bans
+
+- `any` in TypeScript → use `unknown` + type guards, or define an explicit interface.
+- `// TODO` · `// FIXME` · `// placeholder` → halt and ask the Archon.
+- `@ts-ignore` · `@ts-expect-error` → halt and ask the Archon.
+- Preambles, apologies, postambles around code → omit entirely.
+- Hardcoded outbound URLs in components → read from `/frontend/src/config/services-router.ts`.
+- Inline visible copy in components → read from `/frontend/src/config/site-content.json`.
+
+## File constraints
+
+- Hard cap: 200 lines. Split before the Archon reviews.
+- Target: under 100 lines. One responsibility. One React component. File name = component name.
+
+## Structural law
+
+- `/docs/*.md` files are structural law. If a request conflicts, halt and cite the section.
+- All source files and docs in English. JSON content values in the target language (German).
+
+## SOA decoupling (HACE §6)
+
+- Zero backend logic, zero auth state, zero database drivers in `/frontend/` code.
+- All member-facing actions are plain `<a>` tags. URLs come from `services-router.ts` only.
+
+## Output mode
+
+- **Manual Gating** (HACE §4.4): output code into chat only. Never write files to disk.
+- When uncertain: halt, state the conflict, ask the Archon. Cite docs by section number.
