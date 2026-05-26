@@ -67,7 +67,7 @@ infrastructure, readable by anyone with a browser.
 > You observe first. You design before you act. You work in small, contained plots."*
 
 > *Methodology: This codebase was built using **HACE** (the Human — AI Constraint Engine) — a structured AI-human pair-programming methodology that applies the same philosophy to software.
-> You can view the full structural law here: **[Human — AI Constraint Engine](https:/https://gist.github.com/Aimergentix/16eee019135759fb982893df1fbf21f1)*
+> You can view the full structural law here: [Human — AI Constraint Engine](https://gist.github.com/Aimergentix/16eee019135759fb982893df1fbf21f1)*
 
 
 | Permaculture principle | HACE equivalent |
@@ -156,9 +156,9 @@ If you want to contribute or understand the code standards, read:
 
 The soils beneath Rheinfelden's inner city carry traces of polychlorinated dioxins —
 a legacy of the region's industrial past. The Karl-Metzgergrube was backfilled between
-2010 and 2018 with lightly contaminated excavation material. German federal soil
+2010 and 2018 with lightly contaminated excavation material and finaly sealed. German federal soil
 protection law (BBodSchG) and the recommendations of the Landkreis Lörrach are clear:
-no root vegetables grown directly in the ground, no tilling of the natural soil.
+no root vegetables grown directly in the ground, no tilling of the natural sealant gravel.
 
 The raised beds filled with clean earth are not an aesthetic choice. They are a
 necessary protection measure — and one of the most quietly radical things about this
