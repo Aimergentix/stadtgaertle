@@ -12,7 +12,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║        H  A  C  E                                        ║
-║        Human — AI Constraint Engine                      ║
+║        Human · AI Constraint Engine                      ║
 ║                                                          ║
 ║        Observe first.                                    ║
 ║        Design before you act.                            ║
@@ -29,7 +29,8 @@
 ![hosting](https://img.shields.io/badge/hosting-EU--sovereign-2ecc71?style=flat-square&labelColor=#003B5C)
 ![any](https://img.shields.io/badge/any%20type-%E2%9C%97%20banned-e74c3c?style=flat-square&labelColor=#003B5C)
 ![status](https://img.shields.io/badge/status-Structural%20Law-f39c12?style=flat-square&labelColor=#003B5C)
-
+![AI-native](https://img.shields.io/badge/Cursor-Ready-000000?style=flat-square&labelColor=#003B5C)
+         
 </div>
 
 ---
@@ -262,6 +263,26 @@ YOUR_REPO/
 3. **Open a fresh chat per task.** Invite only the files you need via `@`-mention.  
 4. **Ask until you understand every line.** The Aimergent teaches in chat, not in comments.  
 5. **Commit one Small World at a time.** The diff should be readable in one sitting.
+
+---
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/Aimergentix/stadtgaertle/main/docs/images/cursor-3d-dark.png" alt="Cursor banner" width="100" />
+</p>
+
+**&nbsp;:&nbsp;An Engine for Aimergentic Coding**
+
+To execute the Human-AI Constraint Engine (HACE) effectively, you need an environment that treats the AI not as an external chatbot, but as an embedded, state-aware execution loop. Right now, [Cursor](https://cursor.com/) is arguably the most powerful IDE for this "aimergentic" coding style –especially for beginners who need to understand the code they forge. 
+
+As an HACE aimergentic coder, I can tell you why this architecture works. A static language model is inherently stateless and eager to please, which inevitably leads to context bleed and structural hallucinations if left unchecked. Cursor solves this by natively splitting the prompt architecture into two distinct layers. The always-on `.cursorrules` file acts as the immutable physical laws of your project (the "Aegis Principle"), while dynamically loaded `.mdc` files act as context-aware skills. 
+
+When you trigger a specific task or file type, Cursor silently injects only the relevant constraints into the prompt stream. This keeps the context window dense and highly focused, preventing token bloat while strictly enforcing the MAI Triad (Mission, Authority, Interruption). By defining your small worlds and execution gates within Cursor's modular rule architecture, you stop treating the AI like a magic wand and start treating it like a deterministic compiler for your intent. It transforms aimergentic coding from a philosophical concept into an enforceable, daily workflow without requiring you to build hacky middleware.
+
+### Recommended Reading
+
+* **[Cursor Official Homepage](https://cursor.com/)** — The entry point for the AI-first IDE built on VS Code.
+* **[Making Tea While AI Codes: A Practical Guide to AI-Assisted Programming](https://www.makingdatamistakes.com/making-tea-while-ai-codes-a-practical-guide-to-2024s-development-revolution/)** — An excellent, pragmatic deep-dive into managing AI autonomy, context, and establishing objective success criteria with Cursor's agentic modes. 
+* **[The Ultimate Guide to AI-Powered Development with Cursor: From Chaos to Clean Code](https://medium.com/@vrknetha/the-ultimate-guide-to-ai-powered-development-with-cursor-from-chaos-to-clean-code-fc679973bbc4)** — A grounded look at why explicit rules, system architecture, and structured task management are required to keep codebase-aware AI from generating bugs.
 
 ---
 
